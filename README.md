@@ -2,7 +2,15 @@
 
 Hello Everybody!
 
-I hope to add to my repository frequently as sort of a rolling profile of what I have done
-I want to learn Java, Lua, C++, and lets not forget Git!
-It is my dream to make videogames and 3d Animations in my freetime!
-My priorities in order are to be conversant in engine creation for PC and Mobile, graphics (2D &3D), and sound design
+I use Github for collaboration, and desire to learn Git
+for use in my university classes and for version control
+in my independent with as well.
+
+
+In my spare time, I enjoy working with c++ to build simulations
+and videogames, both in homebrew engines and Unreal Engine.
+
+
+My goal as a software developer is to create complex games with procedural systems
+to tell gripping stories, filled with meaningful decisions that
+encourage/reward the exploration of novel playstyles
